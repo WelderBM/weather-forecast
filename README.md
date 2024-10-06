@@ -23,7 +23,7 @@
     $ git clone linkrepo
 
     # Access the project folder in your terminal
-    $ cd instagram-app
+    $ cd weather-forecast
 
     # Install the dependencies
     $ npm install
