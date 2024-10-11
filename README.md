@@ -1,6 +1,6 @@
 <h1 align="center">Weather Forecast🌦️</h1>
 <img src="./capa.png"/>
-<h2 align="center"><a href="https://welderbm.github.io/weather-forecast/">View site</a></h2>
+<h2 align="center"><a href="[https://welderbm.github.io/weather-forecast/](https://weatherprev.netlify.app/)">View site</a></h2>
 
 ## Index
 
