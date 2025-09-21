@@ -40,4 +40,7 @@
 
 1. [React](https://react.dev/)
 2. [Vite](https://vitejs.dev/)
-<h2 id="pessoas-autoras">Authors</h2> <img alt="my profile picture" src="./perfil-quadrado.JPG" width="200"/> welder barroso
+<h2 id="pessoas-autoras">Authors</h2> 
+<img width="200" height="200" align="center" alt="my profile picture" src="https://github.com/welderbm.png"/>
+welder barroso
+
